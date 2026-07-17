@@ -1,0 +1,5 @@
+{
+  "allowed_builds": ["1.1073bd"],
+  "signed_at": 1721300000,
+  "signature": "hex-encoded Ed25519 signature over allowed_builds+signed_at"
+}
